@@ -8,7 +8,7 @@ AI VITS Howto documents
 
 ```
 
-## 一、辅助工具
+## 一、Toolbox
 
 ### 1、AudioSlicer（音频分割）
 [https://github.com/henrymaas/AudioSlicer.git]
