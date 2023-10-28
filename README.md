@@ -51,6 +51,16 @@ https://github.com/PaddlePaddle/PaddleOCR
 https://zhuanlan.zhihu.com/p/656620989
 ```
 
+### 4、Text Segmentation
+```
+https://github.com/koomri/text-segmentation
+
+古文断句
+https://github.com/ToolsForAncientChineseText/Text-segmentation
+
+
+```
+
 ## 二、Audio To Text
 ### Whisper<br>
 Whisper是一种强大的语音识别模型，能够将语音转换为文本，并支持多种语言。我们将使用 Whisper 将视频中的原始语音提取为文本，并通过翻译服务将其转换为目标语言的文本。
