@@ -27,6 +27,25 @@ python AudioSegBat.py <Source-Wave-File-Dir> <Output-Sliced-Wave-File_dir>
 工具介绍：https://www.bilibili.com/read/cv24883000/
 ```
 
+### 3、Google Tesseract OCR
+
+##### 3-1、Python Tesseract
+```
+https://github.com/madmaze/pytesseract
+Python-tesseract is a wrapper for Google's Tesseract-OCR Engine.
+```
+##### 3-2、Tesseract.js
+```
+https://tesseract.projectnaptha.com
+https://github.com/naptha/tesseract.js#tesseractjs
+Tesseract.js is a javascript library that gets words in almost any language out of images.
+```
+
+#### 3-2、PaddleOCR
+```
+https://github.com/PaddlePaddle/PaddleOCR
+```
+
 ## 二、Audio To Text
 ### Whisper<br>
 Whisper是一种强大的语音识别模型，能够将语音转换为文本，并支持多种语言。我们将使用 Whisper 将视频中的原始语音提取为文本，并通过翻译服务将其转换为目标语言的文本。
