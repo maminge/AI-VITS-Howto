@@ -116,6 +116,7 @@ unzip password: cuijiahua.com
 ###### VITS-fast-fine-tuning (AI声音克隆)
 ```
 https://github.com/Plachtaa/VITS-fast-fine-tuning/
+https://www.bilibili.com/video/BV1Jg4y1E7df/?share_source=copy_web&vd_source=09c09be7267697fb21e6ec8f56b2016f
 ```
 ###### Others
 ```
