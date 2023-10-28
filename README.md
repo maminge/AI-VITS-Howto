@@ -24,6 +24,7 @@ python AudioSegBat.py <Source-Wave-File-Dir> <Output-Sliced-Wave-File_dir>
 [https://github.com/Anjok07/ultimatevocalremovergui]
 ```
 目前最强的人声分离工具
+工具介绍：https://www.bilibili.com/read/cv24883000/
 ```
 
 ## 二、Audio To Text
