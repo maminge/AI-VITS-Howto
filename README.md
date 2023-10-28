@@ -8,7 +8,9 @@ AI VITS Howto documents
 
 ```
 
-## 一、AudioSlicer（音频分割）
+## 一、辅助工具
+
+### 1、AudioSlicer（音频分割）
 [https://github.com/henrymaas/AudioSlicer.git]
 ```
 A simple Audio Slicer in Python which can split .wav audio files into multiple .wav samples, based on silence detection.
@@ -18,16 +20,22 @@ RUN:
 python AudioSegBat.py <Source-Wave-File-Dir> <Output-Sliced-Wave-File_dir>
 ```
 
+### 2、Ultimate Vocal Remover（UVR）（人声音乐分离）
+[https://github.com/Anjok07/ultimatevocalremovergui]
+```
+目前最强的人声分离工具
+```
+
 ## 二、Audio To Text
 ### Whisper<br>
 Whisper是一种强大的语音识别模型，能够将语音转换为文本，并支持多种语言。我们将使用 Whisper 将视频中的原始语音提取为文本，并通过翻译服务将其转换为目标语言的文本。
 
-#### OpenAI Whisper: (Mac/Linux)
+#### 1、OpenAI Whisper: (Mac/Linux)
 [https://github.com/openai/whisper/tree/main]
 ```
 ```
-#### Whisper for Windows
-1、Download：Whisper （CPU）
+#### 2、Whisper for Windows
+2-1、Download：Whisper （CPU）
 [https://github.com/Const-me/Whisper]
 ```
 https://github.com/Const-me/Whisper
@@ -36,11 +44,11 @@ Download：Model https://huggingface.co/ggerganov/whisper.cpp
 https://github.com/ggerganov/whisper.cpp/tree/master/models
 https://huggingface.co/ggerganov/whisper.cpp
 ```
-2、Download：Whisper（GPU）
+2-2、Download：Whisper（GPU）
 [https://github.com/guillaumekln/faster-whisper]
 ```
 ```
-3、Whisper输出中文
+2-3、Whisper输出中文
 [https://wulu.zone/posts/whisper-cn]
 ```
 ```
