@@ -3,13 +3,14 @@ AI VITS Howto documents
 
 ## Q&A
 #### 1、So-VITS-SVC 4.0 训练/推理常见报错和Q&A - 哔哩哔哩
+[https://www.bilibili.com/read/cv22206231/]
 ```
-https://www.bilibili.com/read/cv22206231/
+
 ```
 
 ## 一、AudioSlicer（音频分割）
+[https://github.com/henrymaas/AudioSlicer.git]
 ```
-https://github.com/henrymaas/AudioSlicer.git
 A simple Audio Slicer in Python which can split .wav audio files into multiple .wav samples, based on silence detection.
 
 批量分割：Git: https://github.com/maminge/AudioSlicerBat.git
@@ -22,11 +23,12 @@ python AudioSegBat.py <Source-Wave-File-Dir> <Output-Sliced-Wave-File_dir>
 Whisper是一种强大的语音识别模型，能够将语音转换为文本，并支持多种语言。我们将使用 Whisper 将视频中的原始语音提取为文本，并通过翻译服务将其转换为目标语言的文本。
 
 #### OpenAI Whisper: (Mac/Linux)
+[https://github.com/openai/whisper/tree/main]
 ```
-https://github.com/openai/whisper/tree/main
 ```
 #### Whisper for Windows
 1、Download：Whisper （CPU）
+[https://github.com/Const-me/Whisper]
 ```
 https://github.com/Const-me/Whisper
 https://github.com/Const-me/Whisper/releases
@@ -35,12 +37,12 @@ https://github.com/ggerganov/whisper.cpp/tree/master/models
 https://huggingface.co/ggerganov/whisper.cpp
 ```
 2、Download：Whisper（GPU）
+[https://github.com/guillaumekln/faster-whisper]
 ```
-https://github.com/guillaumekln/faster-whisper
 ```
 3、Whisper输出中文
+[https://wulu.zone/posts/whisper-cn]
 ```
-https://wulu.zone/posts/whisper-cn
 ```
 
 ## 三、Text To Audio（train）
@@ -49,8 +51,8 @@ https://wulu.zone/posts/whisper-cn
 
 ## 五、Text To Audio（Demos OR Project）
 #### 1、原神语音包测试
+在线测试：[https://huggingface.co/spaces/Plachta/VITS-Umamusume-voice-synthesizer]
 ```
-在线测试：https://huggingface.co/spaces/Plachta/VITS-Umamusume-voice-synthesizer
 原神语音包（中/日/韩/英）: https://pan.baidu.com/s/1dWtW7qpVacRTXswfMUMqFw?pwd=2qxc 提取码: 2qxc 
 ```
 #### 2、AI声音克隆vits：一键启动包（VITS-fast-fine-tuning）
