@@ -34,31 +34,38 @@ python AudioSegBat.py <Source-Wave-File-Dir> <Output-Sliced-Wave-File_dir>
 工具介绍：https://www.bilibili.com/read/cv24883000/
 ```
 
-### 3、OCR
+### 3、torchaudio：PyTorch的音频库
+[https://github.com/pytorch/audio]
+```
+API: http://pytorch.org/audio/
+Ref: https://ptorch.com/news/100.html
+```
 
-##### 3-1、Python Tesseract (Google Tesseract)
+### 8、OCR
+
+##### 8-1、Python Tesseract (Google Tesseract)
 ```
 https://github.com/madmaze/pytesseract
 Python-tesseract is a wrapper for Google's Tesseract-OCR Engine.
 ```
-##### 3-2、Tesseract.js
+##### 8-2、Tesseract.js
 ```
 https://tesseract.projectnaptha.com
 https://github.com/naptha/tesseract.js#tesseractjs
 Tesseract.js is a javascript library that gets words in almost any language out of images.
 ```
 
-#### 3-2、PaddleOCR
+##### 3-2、PaddleOCR
 ```
 https://github.com/PaddlePaddle/PaddleOCR
 ```
 
-#### 3-3、TrOCR——基于transformer模型的OCR手写文字识别
+##### 3-3、TrOCR——基于transformer模型的OCR手写文字识别
 ```
 https://zhuanlan.zhihu.com/p/656620989
 ```
 
-### 4、Text Segmentation
+### 9、Text Segmentation
 ```
 https://github.com/koomri/text-segmentation
 
