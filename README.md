@@ -20,10 +20,17 @@ RUN:
 python AudioSegBat.py <Source-Wave-File-Dir> <Output-Sliced-Wave-File_dir>
 ```
 
-### 2、Ultimate Vocal Remover（UVR）（人声音乐分离）
+### 2、人声/背景声分离
+
+### 2-1、天花板级的AI音频分离demucs
+[https://github.com/facebookresearch/demucs]
+```
+工具介绍：https://zhuanlan.zhihu.com/p/510755328
+```
+
+#### 2-2、Ultimate Vocal Remover（UVR）
 [https://github.com/Anjok07/ultimatevocalremovergui]
 ```
-目前最强的人声分离工具
 工具介绍：https://www.bilibili.com/read/cv24883000/
 ```
 
