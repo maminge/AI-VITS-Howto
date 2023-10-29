@@ -37,6 +37,7 @@ python AudioSegBat.py <Source-Wave-File-Dir> <Output-Sliced-Wave-File_dir>
 ### 3、torchaudio：PyTorch的音频库
 [https://github.com/pytorch/audio]
 ```
+参考：PyTorch 音频处理教程 https://blog.csdn.net/qq_43613400/article/details/115524978
 API: http://pytorch.org/audio/
 Ref: https://ptorch.com/news/100.html
 ```
