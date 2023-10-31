@@ -7,6 +7,8 @@ AI VITS Howto documents
 ```
 
 ```
+#### Python venv — Creation of virtual environments
+[https://docs.python.org/3/library/venv.html]
 
 ## 一、Toolbox
 
