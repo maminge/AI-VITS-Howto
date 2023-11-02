@@ -51,6 +51,9 @@
 ```
 12、报错：Given groups=1, weight of size [xxx, 256, xxx], expected input[xxx, 768, xxx] to have 256 channels, but got 768 channels instead
 答：v1分支的模型用了vec768的配置文件，如果上面报错的256的768位置反过来了那就是vec768的模型用了v1的配置文件
+
+13、报错：RuntimeError: Error(s) in loading state_dict for SynthesizerTrn:size mismatch for enc_p.emb.weight: copying a param with shape torch.Size([43, 192]) from checkpoint, the shape in current model is torch.Size([40, 192]).
+答：https://github.com/CjangCjengh/MoeGoe/issues/28
 ```
 
 ## Q&A:
