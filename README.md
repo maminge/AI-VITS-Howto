@@ -137,6 +137,11 @@ https://www.bilibili.com/video/BV1Jg4y1E7df/?share_source=copy_web&vd_source=09c
 ```
 ###### Others
 ```
+用python分割语句（jieba）
+https://jingyan.baidu.com/article/4d58d5416a660a9dd4e9c01c.html
+https://blog.csdn.net/weixin_61631131/article/details/124274495
+```
+```
 MockingBird（Real Time Voice Clone）（效果差） 
 你只需要提供一个人短短几秒钟的录音（3-10秒），就能模仿出那个人的声音。
 https://github.com/babysor/MockingBird/tree/main
