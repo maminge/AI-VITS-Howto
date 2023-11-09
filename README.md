@@ -140,6 +140,9 @@ https://www.bilibili.com/video/BV1Jg4y1E7df/?share_source=copy_web&vd_source=09c
 用python分割语句（jieba）
 https://jingyan.baidu.com/article/4d58d5416a660a9dd4e9c01c.html
 https://blog.csdn.net/weixin_61631131/article/details/124274495
+
+Python实现对中文文本分段分句
+https://pythonjishu.com/shrhbowvmggprev/
 ```
 ```
 MockingBird（Real Time Voice Clone）（效果差） 
